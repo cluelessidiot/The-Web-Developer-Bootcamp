@@ -1,0 +1,8 @@
+#!/bin/bash
+cd $HOME/Desktop/The-Web-Developer-Bootcamp
+echo Adding....
+git add -A
+echo commiting $1
+git commit -m $1
+echo pushing...
+git push
