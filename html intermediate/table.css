@@ -1,0 +1,7 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+/*    border collapse comment is to merge the two line border into one*/
+padding:10px;
+/*    cell pading specifies the cell content and its boarders,if you dont specifies the cell padding table cell will be displayed without padding*/
+}
